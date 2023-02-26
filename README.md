@@ -1,2 +1,0 @@
-# PRIMEMUONLINE.com
-Server Changelog
