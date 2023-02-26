@@ -7,7 +7,7 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 
 ### Bugs Reportados
 
-- 
+- Corrigir descrição da Reset Fruit, Altera 340 pontos e nao 200
 ------------------------------------------------------------------------
 
 # Changelog
