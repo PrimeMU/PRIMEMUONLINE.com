@@ -25,7 +25,8 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Fix Mana Shield Formula (GMO)
 - Fix Greater Fortitude Formula (GMO)
 - Corrigida Caracteristicas de varios PETs.
-- Corrigido Usar montarias na SafeZone
+- Corrigido Usar montarias na SafeZone]
+- Spots em VULCANUS (HOT!)
 
 ## [1.1.6.1] - 2023-25-02
 - Corrigido pedir e-mail e PIN após primeiro login no client
