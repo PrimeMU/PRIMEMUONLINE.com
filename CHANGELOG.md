@@ -30,7 +30,7 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Spots em Swamp of Calmness agora com 5 mobs!
 - Corrigido possibilidade de PK em BC
 - Aumentado limite de PK por personagem
-- Alterado Local da pandora evento, agora Random em varios mapas.
+- Alterado Local da pandora evento, agora Random em varios mapas. ( Será anunciado coord )
 ## Servidor
 - Upgrade de Memória RAM para dar mais fluidez e slots para o server ♥
 
