@@ -25,7 +25,7 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Fix Mana Shield Formula (GMO)
 - Fix Greater Fortitude Formula (GMO)
 - Corrigida Caracteristicas de varios PETs.
-- Corrigido Usar montarias na SafeZone]
+- Corrigido Usar montarias na SafeZone
 - Spots em VULCANUS (HOT!)
 - Spots em Swamp of Calmness agora com 5 mobs!
 - Corrigido possibilidade de PK em BC
