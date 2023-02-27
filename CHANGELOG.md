@@ -28,6 +28,7 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Corrigido Usar montarias na SafeZone]
 - Spots em VULCANUS (HOT!)
 - Spots em Swamp of Calmness agora com 5 mobs!
+- Corrigido possibilidade de PK em BC
 
 ## [1.1.6.1] - 2023-25-02
 - Corrigido pedir e-mail e PIN após primeiro login no client
