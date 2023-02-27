@@ -22,6 +22,8 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Alterado localização do respawn dos Zaican, pode ser no mapa todo
 - Hydras continuam fim de A2 e A3
 - Aumentado quantidade de Red Dragons: 3 por mapa
+- Fix Mana Shield Formula (GMO)
+- Fix Greater Fortitude Formula (GMO)
 
 ## [1.1.6.1] - 2023-25-02
 - Corrigido pedir e-mail e PIN após primeiro login no client
