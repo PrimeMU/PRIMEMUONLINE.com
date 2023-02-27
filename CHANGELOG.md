@@ -11,7 +11,7 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 ------------------------------------------------------------------------
 
 # Changelog
-## [1.1.6.2] - 2023-26-02
+## [1.1.6.2] - 2023-26-02 e 27-02 (a ser publicadas na manutenção agendada)
 - Alterada posição da elf buffer em atlans, conflito com marlon
 - Corrigido Elf AE não usar algumas skills com BOT ativado
 - +2 spots acrescentados em Kanturu
