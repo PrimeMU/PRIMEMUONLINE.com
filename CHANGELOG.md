@@ -33,6 +33,8 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Alterado Local da pandora evento, agora Random em varios mapas. ( Será anunciado coord )
 ## Servidor
 - Upgrade de Memória RAM para dar mais fluidez e slots para o server ♥
+## Client Fixes
+- Encontrada .dll que consumia memoria RAM e deixava o cliente pesado.
 
 ## [1.1.6.1] - 2023-25-02
 - Corrigido pedir e-mail e PIN após primeiro login no client
