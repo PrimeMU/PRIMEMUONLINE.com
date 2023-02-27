@@ -24,6 +24,8 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Aumentado quantidade de Red Dragons: 3 por mapa
 - Fix Mana Shield Formula (GMO)
 - Fix Greater Fortitude Formula (GMO)
+- Corrigida Caracteristicas de varios PETs.
+- Corrigido Usar montarias na SafeZone
 
 ## [1.1.6.1] - 2023-25-02
 - Corrigido pedir e-mail e PIN após primeiro login no client
