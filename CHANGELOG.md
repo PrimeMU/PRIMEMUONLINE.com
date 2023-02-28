@@ -31,6 +31,7 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Corrigido possibilidade de PK em BC
 - Aumentado limite de PK por personagem
 - Alterado Local da pandora evento, agora Random em varios mapas. ( Será anunciado coord )
+- Adicionado mensagem de PK no /post
 ## Servidor
 - Upgrade de Memória RAM para dar mais fluidez e slots para o server ♥
 ## Client Fixes
