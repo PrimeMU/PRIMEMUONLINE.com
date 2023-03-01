@@ -10,6 +10,11 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Alterado HP de alguns Golden Mobs
 - Corrigido HP do Kundun
 - Corrigido Bug que ficava relogando em Loren e Crywolf com estagio PK1
+## Servidor
+- Várias proteções implantadas no Firewall para resolver o problema do LAG
+- Atualizado CashShop com itens 7~15~30 dias
+## Client Fixes
+- CashShop Atualizado
 
 ### Bugs Reportados
 - Corrigir descrição da Reset Fruit, Altera 340 pontos e nao 200
