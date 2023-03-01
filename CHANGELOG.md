@@ -3,6 +3,18 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 ## [Não publicadas / falta atualizar o GameServer]
 
 ### Adicionado / Modificado
+
+
+### Bugs Reportados
+- Corrigir descrição da Reset Fruit, Altera 340 pontos e nao 200
+- Mix da Summon scroll Custando 100kk
+
+
+------------------------------------------------------------------------
+
+# Changelog
+
+## [1.1.6.3] 
 - Corrigida EXP em Vulcanus
 - Corrigido quantidade de mobs noss Blood Castles
 - Removido Drop de itens exc abaixo de +7 quando esta PK
@@ -16,14 +28,6 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 ## Client Fixes
 - CashShop Atualizado
 
-### Bugs Reportados
-- Corrigir descrição da Reset Fruit, Altera 340 pontos e nao 200
-- Mix da Summon scroll Custando 100kk
-
-
-------------------------------------------------------------------------
-
-# Changelog
 ## [1.1.6.2] - 2023-26-02 e 27-02 (a ser publicadas na manutenção agendada)
 - Alterada posição da elf buffer em atlans, conflito com marlon
 - Corrigido Elf AE não usar algumas skills com BOT ativado
