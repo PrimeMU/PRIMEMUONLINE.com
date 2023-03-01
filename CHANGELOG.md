@@ -3,13 +3,18 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 ## [Não publicadas / falta atualizar o GameServer]
 
 ### Adicionado / Modificado
-- sem mudanças pendentes ou bugs reportados
+- Corrigida EXP em Vulcanus
+- Corrigido quantidade de mobs noss Blood Castles
+- Removido Drop de itens exc abaixo de +7 quando esta PK
+- Adicionado Golden Mobs (drops de k4 e k5)
+- Alterado HP de alguns Golden Mobs
+- Corrigido HP do Kundun
+- Corrigido Bug que ficava relogando em Loren e Crywolf com estagio PK1
 
 ### Bugs Reportados
-
 - Corrigir descrição da Reset Fruit, Altera 340 pontos e nao 200
-- Corrigida EXP em Vulcanus
-- Corrigido quantidade de mobs em alguns Blood Castles
+
+
 ------------------------------------------------------------------------
 
 # Changelog
