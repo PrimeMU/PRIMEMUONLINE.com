@@ -8,7 +8,7 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 ### Bugs Reportados
 - Corrigir descrição da Reset Fruit, Altera 340 pontos e nao 200
 - Mix da Summon scroll Custando 100kk
-
+- Potion de Mana e HP acabam muito rapido
 
 ------------------------------------------------------------------------
 
