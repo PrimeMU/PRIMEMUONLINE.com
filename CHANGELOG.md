@@ -22,11 +22,14 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Alterado HP de alguns Golden Mobs
 - Corrigido HP do Kundun
 - Corrigido Bug que ficava relogando em Loren e Crywolf com estagio PK1
+- Adicionado Tickets de Eventos (10un) por GP
 ## Servidor
 - Várias proteções implantadas no Firewall para resolver o problema do LAG
 - Atualizado CashShop com itens 7~15~30 dias
 ## Client Fixes
 - CashShop Atualizado
+## Website
+- adicionado reset de Stats para FREE, por 1000GP
 
 ## [1.1.6.2] - 2023-26-02 e 27-02 (a ser publicadas na manutenção agendada)
 - Alterada posição da elf buffer em atlans, conflito com marlon
