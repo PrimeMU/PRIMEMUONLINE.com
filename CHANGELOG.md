@@ -20,7 +20,6 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Removido Drop de itens exc abaixo de +7 quando esta PK
 - Adicionado Golden Mobs (drops de k4 e k5)
 - Alterado HP de alguns Golden Mobs
-- Corrigido HP do Kundun
 - Corrigido Bug que ficava relogando em Loren e Crywolf com estagio PK1
 - Adicionado Tickets de Eventos (10un) por GP
 ## Servidor
