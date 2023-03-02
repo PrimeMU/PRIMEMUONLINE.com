@@ -9,6 +9,8 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Corrigir descrição da Reset Fruit, Altera 340 pontos e nao 200
 - Mix da Summon scroll Custando 100kk
 - Potion de Mana e HP acabam muito rapido
+- Arrumar Mix das Cheery
+- Aumentado Large Mana Potion 20% de recover
 
 ------------------------------------------------------------------------
 
