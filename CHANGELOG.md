@@ -11,6 +11,9 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Potion de Mana e HP acabam muito rapido
 - Arrumar Mix das Cheery
 - Aumentado Large Mana Potion 20% de recover
+- Atacar membros da Guild no PvP
+- Mensagem ao matar Golden Mob
+- Corrigir quantidade da Cherry
 
 ------------------------------------------------------------------------
 
