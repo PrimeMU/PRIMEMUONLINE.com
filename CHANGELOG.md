@@ -13,7 +13,7 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 ------------------------------------------------------------------------
 
 # Changelog
-## [1.1.6.4]
+## [1.1.6.5]
 - Corrigido Respawn do Moss Merchant
 - Alterado limite de participação no Devil Square: Max 4 por dia.
 - Alterado limite de participação no Blood Castle: Max 4 por dia.
