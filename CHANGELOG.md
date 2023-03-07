@@ -33,6 +33,7 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Aumentado Quantidade de Hydra para 15
 - Reduzido drop do Boss Zaikan de 3 para 1
 - Aumentado Quantidade de Zaikan para 10
+- Corrigido Poison nos Golden Mobs
 
 
 
