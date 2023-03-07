@@ -21,7 +21,9 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Mix da Summon scroll Custando 100kk
 - Aumentada EXP em Swamp of Calmness
 - Aumentada EXP em Raklion
-- Adicionado Buffs + Seal of Wealth + Seal of Ascencion para Iniciantes 
+- Adicionado Buffs + Seal of Wealth + Seal of Ascencion para Iniciantes
+- Corrigido Reflect da Summoner
+- Corrigido dmg da Five Shot
 
 ## [1.1.6.3] 
 - Corrigida EXP em Vulcanus
