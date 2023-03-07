@@ -7,18 +7,20 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 
 ### Bugs Reportados
 - Corrigir descrição da Reset Fruit, Altera 340 pontos e nao 200
-- Mix da Summon scroll Custando 100kk
-- Potion de Mana e HP acabam muito rapido
 - Arrumar Mix das Cheery
-- Aumentado Large Mana Potion 20% de recover
-- Mensagem ao matar Golden Mob
 - Corrigir quantidade da Cherry
-- Removido possibilidade de atacar membros de Guild
-- Removido possibilidade de atacar membros de Guild aliance
 
 ------------------------------------------------------------------------
 
 # Changelog
+## [1.1.6.4]
+- Removido possibilidade de atacar membros de Guild
+- Removido possibilidade de atacar membros de Guild aliance
+- Adicionado mensagem ao matar Golden MOB no centro da tela
+- Aumentado Large Mana Potion 20% de recover
+- Mix da Summon scroll Custando 100kk
+- Aumentada EXP em Swamp of Calmness
+- Aumentada EXP em Raklion
 
 ## [1.1.6.3] 
 - Corrigida EXP em Vulcanus
