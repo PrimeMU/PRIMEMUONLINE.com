@@ -14,6 +14,29 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 
 # Changelog
 ## [1.1.6.4]
+- Corrigido Respawn do Moss Merchant
+- Alterado limite de participação no Devil Square: Max 4 por dia.
+- Alterado limite de participação no Blood Castle: Max 4 por dia.
+- Alterado capacidade do Blood Castle para 30 players.
+- Aumentado EXP do BC7 e inferiores (normal exp +150%)
+- Reduzido drop do Skeleton King de 3 para 1
+- Aumentado quantidade de Skeleton Kings para 15
+- Reduzido drop do Red Dragon de 3 para 1
+- Aumentado quantidade de Red Dragon para 6
+- Reduzido drop do Mini Boss Gorgon de 3 para 1
+- Aumentado Quantidade de Gorgon para 15
+- Reduzido drop do Mini Boss Ice Queen de 3 para 1
+- Aumentado Quantidade de Ice Queen para 15
+- Reduzido drop do Mini Boss Balrog de 3 para 1
+- Aumentado Quantidade de Balrog para 15
+- Reduzido drop do Mini Boss Hydra de 3 para 1
+- Aumentado Quantidade de Hydra para 15
+- Reduzido drop do Boss Zaikan de 3 para 1
+- Aumentado Quantidade de Zaikan para 10
+
+
+
+## [1.1.6.4]
 - Removido possibilidade de atacar membros de Guild
 - Removido possibilidade de atacar membros de Guild aliance
 - Adicionado mensagem ao matar Golden MOB no centro da tela
