@@ -9,12 +9,22 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Corrigir descrição da Reset Fruit, Altera 340 pontos e nao 200
 - Arrumar Mix das Cheery
 - Corrigir quantidade da Cherry
-- Ativar /quest, comando para pegar os itens quest
-- Corrigido drop do CC5, CC6 e CC7 ( Pack de joias e Box of Kundun )
+
 
 ------------------------------------------------------------------------
 
 # Changelog
+## [1.1.6.6]
+- Ativado /quest, comando para pegar os itens quest sem precisar abrir o menu da direita.
+- Corrigido drop do CC5, CC6 e CC7 ( Pack de joias e Box of Kundun )
+- Alterado drop de CC7, 6 e 5 (devido nao dropar mais que 1 item)
+- Drop CC7: Box +4 e +5 e Pack de joias
+- Drop CC6: Box +3 e +4 e Pack de Joias
+- Drop CC5: Box +1 e +2 e Pack de Joias
+- Drop CC4 e abaixo, joias (bless, soul, life, creation )
+- Corrigido Horários do BC e DS, estavam errados
+- Corrigido Poison no GGD ( Great Golden Dragon )
+
 ## [1.1.6.5]
 - Corrigido Respawn do Moss Merchant
 - Alterado limite de participação no Devil Square: Max 4 por dia.
