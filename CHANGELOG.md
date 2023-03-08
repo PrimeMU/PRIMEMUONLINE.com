@@ -9,6 +9,7 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Corrigir descrição da Reset Fruit, Altera 340 pontos e nao 200
 - Arrumar Mix das Cheery
 - Corrigir quantidade da Cherry
+- Ativar /quest, comando para pegar os itens quest
 
 ------------------------------------------------------------------------
 
