@@ -10,6 +10,7 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Arrumar Mix das Cheery
 - Corrigir quantidade da Cherry
 - Ativar /quest, comando para pegar os itens quest
+- Corrigido drop do CC5, CC6 e CC7 ( Pack de joias e Box of Kundun )
 
 ------------------------------------------------------------------------
 
