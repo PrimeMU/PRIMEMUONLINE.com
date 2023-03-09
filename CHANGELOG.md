@@ -15,12 +15,14 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 
 # Changelog
 
-## [1.1.6.7]
+## [1.1.6.7] - Algumas alterações precisam do reinicio do Server
 - Ativado Illusion Temple
 - Ativado Evento Double Goer
 - Ativado Evento Imperial Guardian (Gaion)
 - Drop de Armor e Pants 380 e Socket Items, agora podem ser dropados no chão (de mobs)
 - Ajustado Moss Merchant para 5kk 
+- Adicionado Book of Sahamut ao MOSS Merchant
+- Adicionado Book of Neil ao Moss Merchant
 
 ## [1.1.6.6]
 - Ativado /quest, comando para pegar os itens quest sem precisar abrir o menu da direita.
