@@ -19,7 +19,8 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Ativado Illusion Temple
 - Ativado Evento Double Goer
 - Ativado Evento Imperial Guardian (Gaion)
-- Drop de Armor e Pants 380 e Socket Items, agora podem ser dropados no chão.
+- Drop de Armor e Pants 380 e Socket Items, agora podem ser dropados no chão (de mobs)
+- Ajustado Moss Merchant para 5kk 
 
 ## [1.1.6.6]
 - Ativado /quest, comando para pegar os itens quest sem precisar abrir o menu da direita.
