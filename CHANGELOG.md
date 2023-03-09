@@ -14,6 +14,13 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 ------------------------------------------------------------------------
 
 # Changelog
+
+## [1.1.6.7]
+- Ativado Illusion Temple
+- Ativado Evento Double Goer
+- Ativado Evento Imperial Guardian (Gaion)
+- Drop de Armor e Pants 380 e Socket Items, agora podem ser dropados no chão.
+
 ## [1.1.6.6]
 - Ativado /quest, comando para pegar os itens quest sem precisar abrir o menu da direita.
 - Corrigido drop do CC5, CC6 e CC7 ( Pack de joias e Box of Kundun )
