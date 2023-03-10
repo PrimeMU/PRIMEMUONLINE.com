@@ -9,6 +9,10 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Corrigir descrição da Reset Fruit, Altera 340 pontos e nao 200
 - Arrumar Mix das Cheery
 - Corrigir quantidade da Cherry
+- Aumentar quantidade de GP por eventos e hunt de boss
+- Adicionar Master Seals por hunt points ou GP
+- Adicionar Talisman of Chaos Assembly em % hard
+- Adicionar TCA na CashShop por um valor consideravel
 
 
 ------------------------------------------------------------------------
