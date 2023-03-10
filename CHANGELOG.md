@@ -13,11 +13,16 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Adicionar Master Seals por hunt points ou GP
 - Adicionar Talisman of Chaos Assembly em % hard
 - Adicionar TCA na CashShop por um valor consideravel
+- arrumar RF usar leather e bronze
 
 
 ------------------------------------------------------------------------
 
 # Changelog
+
+## [1.1.6.8] - Algumas alterações precisam do reinicio do Server
+- Resolvido Move Summon PK
+- Removido Dark Elf do Devil Square
 
 ## [1.1.6.7] - Algumas alterações precisam do reinicio do Server
 - Ativado Illusion Temple
