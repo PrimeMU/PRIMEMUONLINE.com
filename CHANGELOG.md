@@ -18,7 +18,13 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 
 # Changelog
 
-## [1.1.6.8] - Algumas alterações precisam do reinicio do Server
+## [1.1.6.9] - Algumas alterações podem precisar reiniciar o Server
+- Adicionado na CashShop, Goblin Point:
+  - Todos os Buffs por 3 dias e 7 dias
+- Adicionado por HuntPoint:
+  - Master Seal of Ascension
+
+## [1.1.6.8]
 - Removido Dark Elf do Devil Square
 - Problemas com PVP corrigidos
 - Adicionado delay no Teleport
@@ -30,7 +36,7 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Reduzido Stun da Witch Queen em Aida
 - Corrigido RF equipar Leather Gloves
 
-## [1.1.6.7] - Algumas alterações precisam do reinicio do Server
+## [1.1.6.7]
 - Ativado Illusion Temple
 - Ativado Evento Double Goer
 - Ativado Evento Imperial Guardian (Gaion)
