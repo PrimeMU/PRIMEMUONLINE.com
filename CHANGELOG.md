@@ -13,8 +13,6 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Adicionar Master Seals por hunt points ou GP
 - Adicionar Talisman of Chaos Assembly em % hard
 - Adicionar TCA na CashShop por um valor consideravel
-- arrumar RF usar leather e bronze
-
 
 ------------------------------------------------------------------------
 
@@ -22,7 +20,7 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 
 ## [1.1.6.8] - Algumas alterações precisam do reinicio do Server
 - Removido Dark Elf do Devil Square
-- PvP Balanceado
+- Problemas com PVP corrigidos
 - Adicionado delay no Teleport
 - Reduzido tempo do Ice (10s > 3s Original)
 - Todos os Buffs do RF balanceados
@@ -30,6 +28,7 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Drop de Orb Soldier adicionado
 - Drop de Orb Satyros adicionado
 - Reduzido Stun da Witch Queen em Aida
+- Corrigido RF equipar Leather Gloves
 
 ## [1.1.6.7] - Algumas alterações precisam do reinicio do Server
 - Ativado Illusion Temple
