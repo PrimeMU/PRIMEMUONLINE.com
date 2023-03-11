@@ -21,8 +21,15 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 # Changelog
 
 ## [1.1.6.8] - Algumas alterações precisam do reinicio do Server
-- Resolvido Move Summon PK
 - Removido Dark Elf do Devil Square
+- PvP Balanceado
+- Adicionado delay no Teleport
+- Reduzido tempo do Ice (10s > 3s Original)
+- Todos os Buffs do RF balanceados
+- ativado /pick jewel para VIP GOLD e VIP PLATINUM
+- Drop de Orb Soldier adicionado
+- Drop de Orb Satyros adicionado
+- Reduzido Stun da Witch Queen em Aida
 
 ## [1.1.6.7] - Algumas alterações precisam do reinicio do Server
 - Ativado Illusion Temple
