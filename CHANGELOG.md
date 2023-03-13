@@ -17,6 +17,13 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 ------------------------------------------------------------------------
 
 # Changelog
+## [1.1.7.0] - Algumas alterações podem precisar reiniciar o Server
+- Adicionado TopHitCount a vários BOSS, a partir de agora os 3 que derem mais hits terão prioridade no drop nos seguintes BOSS:
+- Red Dragon
+- Kundun (Kalima7)
+- Medusa
+- Erohim
+- Golden Great Dragon
 
 ## [1.1.6.9] - Algumas alterações podem precisar reiniciar o Server
 - Adicionado na CashShop, Goblin Point:
