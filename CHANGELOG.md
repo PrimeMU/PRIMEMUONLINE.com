@@ -13,6 +13,7 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Adicionar Master Seals por hunt points ou GP
 - Adicionar Talisman of Chaos Assembly em % hard
 - Adicionar TCA na CashShop por um valor consideravel
+- Tirar drop de IMP dos eventos
 
 ------------------------------------------------------------------------
 
