@@ -18,7 +18,7 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 # Changelog
 ## [1.1.7.1]
 - Removido Drop de IMP do Skeleton King, e todos os mini boss (gorgon, ice queen, balrog, hydra, zaikan )
-- Adicionada possibilidade de abrir Store em mapas hunt ( Procurar no Search Store ), você não conseguira se mover com Store aberto.
+- Adicionada possibilidade de abrir Store em mapas hunt ( movimentar comercio no Search Store ), você não conseguira se mover com Store aberto. 
 
 
 ## [1.1.7.0] - Algumas alterações podem precisar reiniciar o Server
