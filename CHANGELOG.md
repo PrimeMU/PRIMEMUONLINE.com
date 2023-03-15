@@ -12,6 +12,9 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Aumentar quantidade de GP por eventos e hunt de boss
 - Adicionar Talisman of Chaos Assembly em % hard
 - Adicionar TCA na CashShop por um valor consideravel
+- Adicionar mix das asas 2.5
+- Arrumar drop dos mini boss
+- arrumar eventos Classe x Classe ( indo pra dungeon )
 
 ------------------------------------------------------------------------
 
