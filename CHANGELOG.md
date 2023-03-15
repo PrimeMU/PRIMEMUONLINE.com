@@ -10,14 +10,16 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Arrumar Mix das Cheery
 - Corrigir quantidade da Cherry
 - Aumentar quantidade de GP por eventos e hunt de boss
-- Adicionar Master Seals por hunt points ou GP
 - Adicionar Talisman of Chaos Assembly em % hard
 - Adicionar TCA na CashShop por um valor consideravel
-- Tirar drop de IMP dos eventos
 
 ------------------------------------------------------------------------
 
 # Changelog
+## [1.1.7.1]
+- Removido Drop de IMP do Skeleton King, e todos os mini boss (gorgon, ice queen, balrog, hydra, zaikan )
+
+
 ## [1.1.7.0] - Algumas alterações podem precisar reiniciar o Server
 - Adicionado TopHitCount a vários BOSS, a partir de agora os 3 que derem mais hits terão prioridade no drop nos seguintes BOSS:
 - Red Dragon
