@@ -16,6 +16,7 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Arrumar drop dos mini boss
 - arrumar eventos Classe x Classe ( indo pra dungeon )
 - agrupar potions SD de 3 em 3 ( verificar )
+- ver drop do Double Goer
 
 ------------------------------------------------------------------------
 
