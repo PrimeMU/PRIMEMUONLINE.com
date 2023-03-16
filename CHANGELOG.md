@@ -15,10 +15,20 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Adicionar mix das asas 2.5
 - Arrumar drop dos mini boss
 - arrumar eventos Classe x Classe ( indo pra dungeon )
+- agrupar potions SD de 3 em 3 ( verificar )
 
 ------------------------------------------------------------------------
 
 # Changelog
+
+## [1.1.7.2]
+- Alterado drop dos mini boss: removido rings temporários, exceto da ice queen (boss iniciante)
+- Ice Queen Drop: Todas as joias (un), Rings da CashShop, Rare Item Ticket 1 ( exc até nivel de box+3 )
+- Gorgon: Todas as joias, Muun Egg, Rare Item Ticket 1 ( removido todos os rings, staff gorgon )
+- Hydra: Jewel of Bless, Jewel of Soul, Jewel of Chaos, Pack de Soul, Rare Item Ticket 2 (box +1 até +4, possibilidade de pena e crest)
+- Balrog: Todas as joias (un), pack de joias (soul, chaos, life, creation), TOL, Rare Item Ticket 2.
+- Zaikan: Todas as joias (un), Todos os packs de joias, Rings e Pendants exc, Rare Item Ticket 2.
+
 ## [1.1.7.1]
 - Removido Drop de IMP do Skeleton King, e todos os mini boss (gorgon, ice queen, balrog, hydra, zaikan )
 - Adicionada possibilidade de abrir Store em mapas hunt ( movimentar comercio no Search Store ), você não conseguira se mover com Store aberto. 
