@@ -8,8 +8,6 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 ### Bugs Reportados
 PRIORIDADE ALTA:
 - ver drop do Double Goer
-- Corrigir Medusa
-- Corrigir Selupan
 - Adicionar mix das asas 2.5
 PRIORIDADE BAIXA:
 - Corrigir descrição da Reset Fruit, Altera 340 pontos e nao 200
