@@ -6,17 +6,20 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 
 
 ### Bugs Reportados
+PRIORIDADE ALTA:
+- ver drop do Double Goer
+- Corrigir Medusa
+- Corrigir Selupan
+- Adicionar mix das asas 2.5
+PRIORIDADE BAIXA:
 - Corrigir descrição da Reset Fruit, Altera 340 pontos e nao 200
 - Arrumar Mix das Cheery
 - Corrigir quantidade da Cherry
 - Aumentar quantidade de GP por eventos e hunt de boss
 - Adicionar Talisman of Chaos Assembly em % hard
 - Adicionar TCA na CashShop por um valor consideravel
-- Adicionar mix das asas 2.5
-- Arrumar drop dos mini boss
-- arrumar eventos Classe x Classe ( indo pra dungeon )
 - agrupar potions SD de 3 em 3 ( verificar )
-- ver drop do Double Goer
+- arrumar notificação do double goer
 
 ------------------------------------------------------------------------
 
