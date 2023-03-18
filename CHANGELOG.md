@@ -20,10 +20,16 @@ PRIORIDADE BAIXA:
 - Adicionar TCA na CashShop por um valor consideravel
 - agrupar potions SD de 3 em 3 ( verificar )
 - arrumar notificação do double goer
+- Dropar do Gaion as seed level 1
 
 ------------------------------------------------------------------------
 
 # Changelog
+## [1.1.7.3]
+- Balanceado Status dos BOSS: Kundun, Medusa, Selupan
+- Aumentado quantidade de GP ganha ao matar Golden Mobs, Mini Boss e Boss.
+- Adicionado /attack e /offattack para player FREE
+- OffHelper Oficial ativado para o VIP GOLD e PLATINUM
 
 ## [1.1.7.2]
 - Alterado drop dos mini boss: removido rings temporários, exceto da ice queen (boss iniciante)
