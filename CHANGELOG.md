@@ -23,6 +23,16 @@ PRIORIDADE BAIXA:
 ------------------------------------------------------------------------
 
 # Changelog
+
+## [1.1.7.4]
+- Liberado mapa Ferea
+- Aumentado drop de Stone of Friendship
+- Adicionado 3 novas invasões ( Invasão 2.5 )
+  - Death Beam Knight (Boss), Drop: Death Beam Knight Soul, TOL, Joias, MAstery Boxes, Armas nivel: Kundun +5
+  - Dark Phoenix (Boss), Drop: Dark Phoenix Flame, TOL, Joias, MAstery Boxes, Sets nivel: ashcrow, eclipse, etc.
+  - Hell Maine (Boss), Drop: Hell Maine's Leather, TOL, Joias, MAstery Boxes, Sets nivel: Dark Phoenix, Grand Soul, etc.
+  - Adicionado ao Skeleton King: Death King's Bone
+
 ## [1.1.7.3]
 - Balanceado Status dos BOSS: Kundun, Medusa, Selupan
 - Aumentado quantidade de GP ganha ao matar Golden Mobs, Mini Boss e Boss.
