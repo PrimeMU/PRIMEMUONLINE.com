@@ -9,11 +9,11 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 PRIORIDADE ALTA:
 - ver drop do Double Goer
 - Adicionar mix das asas 2.5
+- 
 PRIORIDADE BAIXA:
 - Corrigir descrição da Reset Fruit, Altera 340 pontos e nao 200
 - Arrumar Mix das Cheery
 - Corrigir quantidade da Cherry
-- Aumentar quantidade de GP por eventos e hunt de boss
 - Adicionar Talisman of Chaos Assembly em % hard
 - Adicionar TCA na CashShop por um valor consideravel
 - agrupar potions SD de 3 em 3 ( verificar )
