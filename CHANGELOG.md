@@ -22,6 +22,9 @@ PRIORIDADE BAIXA:
 ------------------------------------------------------------------------
 
 # Changelog
+## [1.1.7.5]
+- Corrigida EXP de Ferea
+- Corrigido Respawn do Hell Maine e Death Beam Knight
 
 ## [1.1.7.4]
 - Liberado mapa Ferea
