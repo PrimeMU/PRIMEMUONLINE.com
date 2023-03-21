@@ -26,6 +26,7 @@ PRIORIDADE BAIXA:
 - Colocar drop de box sealed e a chave para vender por wcoin, (coloca drop de mix de joia, item exc, coisa boas para o pessoal usar)
 - Arrumar o MG fica gastando vida enquanto bate nos mob
 - Precisa pensar sobre oque fazer com os itens socket, eles não servem para nada se não tiver seed, ou coloca item anciente para dropar ou coloca as seed para dropar dos boss.
+- Ver porque os mini boss as vezes nao nascem todos
 
 ------------------------------------------------------------------------
 
