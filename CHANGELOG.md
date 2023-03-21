@@ -18,6 +18,14 @@ PRIORIDADE BAIXA:
 - agrupar potions SD de 3 em 3 ( verificar )
 - arrumar notificação do double goer
 - Dropar do Gaion as seed level 1
+- Roleta diminuir para 100wcoin e colocar itens mais interessantes 
+- Retirar egg das invasões (somente nos coelhos)
+- Colocar ring wizard por tempo por wcoin
+- Colocar o seal vermelhor por wcoin
+- Ring do evento de maya por wcoin
+- Colocar drop de box sealed e a chave para vender por wcoin, (coloca drop de mix de joia, item exc, coisa boas para o pessoal usar)
+- Arrumar o MG fica gastando vida enquanto bate nos mob
+- Precisa pensar sobre oque fazer com os itens socket, eles não servem para nada se não tiver seed, ou coloca item anciente para dropar ou coloca as seed para dropar dos boss.
 
 ------------------------------------------------------------------------
 
