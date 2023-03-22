@@ -27,10 +27,22 @@ PRIORIDADE BAIXA:
 - Arrumar o MG fica gastando vida enquanto bate nos mob
 - Precisa pensar sobre oque fazer com os itens socket, eles não servem para nada se não tiver seed, ou coloca item anciente para dropar ou coloca as seed para dropar dos boss.
 - Ver porque os mini boss as vezes nao nascem todos
+- Ver Chaos machine criando asa lvl 1 e lvl 2 sem add outros itens pra melhorar a %
 
 ------------------------------------------------------------------------
 
 # Changelog
+
+## [1.1.7.6]
+- Melhorias nos drops do Kundun, Medusa e Selupan.
+  - Agora dropa fixo: 1 ancient, 1 exc, 1 socket ou misc
+  - Kundun Drop refeito para: Ancient Items, Normal Weapons 380. Exc Weapons: Knight Blade, DayBreak, Dancer, Arrow Viper, Platina Staff, etc. EXC Parts: Dark Phoenix, Grand Soul, etc. Normal Armors 380, Pack de Joias.
+  - Medusa Drop refeito para: Ancient Items, Normal Weapons 380. Exc Weapons: Knight Blade, DayBreak, Dancer, Arrow Viper, Platina Staff, etc. 
+	EXC Parts: Dark Phoenix, Grand Soul, etc. Normal Armors 380, (Pack de Joias, Condor Flame 1%).
+  - Selupan Drop refeito para: Ancient Items, Intens Socket, Exc Weapons:  Normal Weapons 380. Exc Weapons: Knight Blade, DayBreak, Dancer, Arrow Viper, Platina Staff, etc. 
+	EXC Parts: Dark Phoenix, Grand Soul, etc. Normal Armors 380, (Pack de Joias, Condor Flame 1%) seed e sphere.
+   Rare ticket 1: Rings
+
 ## [1.1.7.5]
 - Corrigida EXP de Ferea
 - Corrigido Respawn do Hell Maine e Death Beam Knight
