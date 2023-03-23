@@ -56,7 +56,8 @@ PRIORIDADE BAIXA:
 - Selupan Drop refeito para: Sets e Armas Socket, Seed e Spheres 4~5, Pack de Joias e [Condor Flame] % baixa.
 - SOCKET [2~3 Slots] Sets e Armas ( Titan, Brave, Seaphim... Flameberge, Sword Breaker, Rune bastard, Frost Mace, etc )
 - Seeds ( Fire, Water, Ice, Wing, Lightning, Earth )
-  
+
+### Outras Alterações:
 - Novo Drop do Rare ticket 1: 2 Joias Random + Possibilidade Drop de Pack de Soul, Lochs Feather, Crest,, Exc Items de +0 até +11 de Box +1 e +2 
 - Novo Drop do Rare ticket 2: 2 Joias Random + Possibilidade Drop de Pack de Soul, Bless, Life, Pena, Crest, 2.5 Wings Items, Exc Items até +9 de Box +3 e +4
 - Atualizado Drop da Lucky Coin 10 ( Moeda da Sorte ): Joias, Pack de Joias, Items Exc de +0 até +11 de Box +1 e +2
