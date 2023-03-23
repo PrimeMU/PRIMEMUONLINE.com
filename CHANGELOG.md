@@ -29,6 +29,8 @@ PRIORIDADE BAIXA:
 - Ver porque os mini boss as vezes nao nascem todos
 - Ver Chaos machine criando asa lvl 1 e lvl 2 sem add outros itens pra melhorar a %
 - ver socket do kundun e medusa
+- Colocar anel do evento de maya para dropar e vender por wcoin
+- Colocar convite illusion temple e double goer para vender por wcoin
 
 ------------------------------------------------------------------------
 
@@ -55,11 +57,14 @@ PRIORIDADE BAIXA:
 - Adicionado possibilidade de drop de item Anciente no Chaos Castle 7
 - Devil Square 6 e 7: Possibilidade de drop Bundle [10] Jewel Random, Feather e Crest.
 - Aumentado drop de Exc dos mobs no Devil Square
-- Double Goer 1: Golden Chest dropando 1un fixa de joias + armas exc (box +1) até +11
-- Double Goer 2: Golden Chest dropando 1un fixa de joias + armas exc (box +2) até +11
-- Double Goer 3: Golden Chest dropando 1un fixa de joias + armas exc (box +3) até +11
-- Double Goer 4: Golden Chest dropando 1un fixa de joias, possibilidade de pack de joias random e armas exc (box +4) até +9
-- Double Goer 5: Golden Chest dropando 1un fixa de joias, possibilidade de pack de joias random e armas exc (box +4) até +9
+- Double Goer 1: Golden Chest dropando 1un fixa de joias + armas exc (box +1) até +11 ( Blade, Serpent Sword, Battle e Master Scepter, Golden Cross, Thunder Staff, etc )
+- Double Goer 2: Golden Chest dropando 1un fixa de joias + armas exc (box +2) até +11 ( Legendary Sword, Double Blade, Sacred Glove, Tiger Bow, Gorgon Staff, etc )
+- Double Goer 3: Golden Chest dropando 1un fixa de joias + armas exc (box +3) até +11 ( Sword of Destruction, Rune Blade, Lord Scepter, Dragon Soul Staff, etc )
+- Double Goer 4: Golden Chest dropando 1un fixa de joias, possibilidade de pack de joias random e armas exc (box +4) até +9 ( Dark Breaker, Hooly Storm Claw, Saint Crossbow, Staff of Destrucion, etc ) 
+- Double Goer 5: Golden Chest dropando 1un fixa de joias, possibilidade de pack de joias random e armas exc (box +5) até +7 ( Knight Blade, Thunder, Kundun Staff, Chromatic, Great Lord Scepter, etc )
+- Adicionado drop de Silver e Golden Chest
+- Silver Chest Drop: Pack de Joias, Items Exc de +0 até +11 ( Box +1 e +2 )
+- Golden Chest Drop: Pack de Joias, Feather, Crest, Items Exc de +0 até +11 ( Box +3 e +4  )
 
 ## [1.1.7.5]
 - Corrigida EXP de Ferea
