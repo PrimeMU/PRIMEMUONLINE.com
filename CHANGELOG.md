@@ -42,7 +42,24 @@ PRIORIDADE BAIXA:
 	EXC Parts: Dark Phoenix, Grand Soul, etc. Normal Armors 380, (Pack de Joias, Condor Flame 1%).
   - Selupan Drop refeito para: Ancient Items, Intens Socket, Exc Weapons:  Normal Weapons 380. Exc Weapons: Knight Blade, DayBreak, Dancer, Arrow Viper, Platina Staff, etc. 
 	EXC Parts: Dark Phoenix, Grand Soul, etc. Normal Armors 380, (Pack de Joias, Condor Flame 1%) seed e sphere.
-   Rare ticket 1: Rings
+- Novo Drop do Rare ticket 1: 2 Joias Random + Possibilidade Drop de Pack de Soul, Lochs Feather, Crest,, Exc Items de +0 até +11 de Box +1 e +2 
+- Novo Drop do Rare ticket 2: 2 Joias Random + Possibilidade Drop de Pack de Soul, Bless, Life, Pena, Crest, 2.5 Wings Items, Exc Items até +9 de Box +3 e +4
+- Atualizado Drop da Lucky Coin 10 ( Moeda da Sorte ): Joias, Pack de Joias, Items Exc de +0 até +11 de Box +1 e +2
+- Atualizado Drop da Lucky Coin 20 ( Moeda da Sorte ): Joias, Pack de Joias, Lochs Feather, Crest, Items Exc de +0 até +9 de Box +3 e +4
+- Atualizado Drop da Lucky Coin 30 ( Moeda da Sorte ): Joias, Pack de Joias, Lochs Feather, Crest, Items Exc de +0 até +7 e +9 ( Box +4 e Ashcrow, Eclipse, Iris, etc )
+- Devido a diminuição dos players, não vemos mais necessidade de termos 15 mini boss por invasão, sendo assim, retornamos para o valor anterior.
+- Aumentado drop de joias no Farm ( drop dos mobs )
+- Com alteração do Rare Item Ticket, o drop da Stone of Friendship automaticamente foi melhorado ( recompensa = Rare Item Ticket )
+- Corrigido drop do Death Beam ( drop de armas nivel Box +4 )
+- Aumentado possibilidade de drop de item EXC no Blood Castle 8
+- Adicionado possibilidade de drop de item Anciente no Chaos Castle 7
+- Devil Square 6 e 7: Possibilidade de drop Bundle [10] Jewel Random, Feather e Crest.
+- Aumentado drop de Exc dos mobs no Devil Square
+- Double Goer 1: Golden Chest dropando 1un fixa de joias + armas exc (box +1) até +11
+- Double Goer 2: Golden Chest dropando 1un fixa de joias + armas exc (box +2) até +11
+- Double Goer 3: Golden Chest dropando 1un fixa de joias + armas exc (box +3) até +11
+- Double Goer 4: Golden Chest dropando 1un fixa de joias, possibilidade de pack de joias random e armas exc (box +4) até +9
+- Double Goer 5: Golden Chest dropando 1un fixa de joias, possibilidade de pack de joias random e armas exc (box +4) até +9
 
 ## [1.1.7.5]
 - Corrigida EXP de Ferea
