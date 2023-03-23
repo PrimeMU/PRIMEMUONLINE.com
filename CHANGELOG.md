@@ -5,6 +5,7 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 ### Bugs Reportados
 #### PRIORIDADE ALTA:
 - Ver Chaos machine criando asa lvl 1 e lvl 2 sem add outros itens pra melhorar a %
+- Arrumar damage e defesa das asas 2.5 no client ( valor esta errado )
 
 ##### PRIORIDADE BAIXA:
 - Corrigir descrição da Reset Fruit, Altera 340 pontos e nao 200
