@@ -7,20 +7,18 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 
 ### Bugs Reportados
 PRIORIDADE ALTA:
-- 
+- Ver Chaos machine criando asa lvl 1 e lvl 2 sem add outros itens pra melhorar a %
 
 PRIORIDADE BAIXA:
 - Corrigir descrição da Reset Fruit, Altera 340 pontos e nao 200
 - Arrumar Mix das Cheery
 - Corrigir quantidade da Cherry
 - arrumar notificação do double goer
-- Dropar do Gaion as seed level 1
 - Roleta diminuir para 100wcoin e colocar itens mais interessantes 
 - Arrumar o MG fica gastando vida enquanto bate nos mob ( verificar Skill Tree )
 - Ver porque os mini boss as vezes nao nascem todos
-- Ver Chaos machine criando asa lvl 1 e lvl 2 sem add outros itens pra melhorar a %
 
-### ALTERAÇÔES DA CASHSHOP ( PENDENTE ):
+#### ALTERAÇÔES DA CASHSHOP ( PENDENTE ):
 - Colocar anel do evento de maya para dropar e vender por wcoin
 - Colocar convite illusion temple e double goer para vender por wcoin
 - Adicionar Sealed Box Silver e Gold
