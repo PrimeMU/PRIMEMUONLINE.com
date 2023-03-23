@@ -7,32 +7,29 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 
 ### Bugs Reportados
 PRIORIDADE ALTA:
-- ver drop do Double Goer
 - 
+
 PRIORIDADE BAIXA:
 - Corrigir descrição da Reset Fruit, Altera 340 pontos e nao 200
 - Arrumar Mix das Cheery
 - Corrigir quantidade da Cherry
-- Adicionar Talisman of Chaos Assembly em % hard
-- Adicionar TCA na CashShop por um valor consideravel
-- agrupar potions SD de 3 em 3 ( verificar )
 - arrumar notificação do double goer
 - Dropar do Gaion as seed level 1
 - Roleta diminuir para 100wcoin e colocar itens mais interessantes 
-- Retirar egg das invasões (somente nos coelhos)
+- Arrumar o MG fica gastando vida enquanto bate nos mob ( verificar Skill Tree )
+- Ver porque os mini boss as vezes nao nascem todos
+- Ver Chaos machine criando asa lvl 1 e lvl 2 sem add outros itens pra melhorar a %
+
+### ALTERAÇÔES DA CASHSHOP ( PENDENTE ):
+- Colocar anel do evento de maya para dropar e vender por wcoin
+- Colocar convite illusion temple e double goer para vender por wcoin
+- Adicionar Sealed Box Silver e Gold
 - Colocar ring wizard por tempo por wcoin
 - Colocar o seal vermelhor por wcoin
 - Ring do evento de maya por wcoin
-- Colocar drop de box sealed e a chave para vender por wcoin, (coloca drop de mix de joia, item exc, coisa boas para o pessoal usar)
-- Arrumar o MG fica gastando vida enquanto bate nos mob
-- Precisa pensar sobre oque fazer com os itens socket, eles não servem para nada se não tiver seed, ou coloca item anciente para dropar ou coloca as seed para dropar dos boss.
-- Ver porque os mini boss as vezes nao nascem todos
-- Ver Chaos machine criando asa lvl 1 e lvl 2 sem add outros itens pra melhorar a %
-- ver socket do kundun e medusa
-- Colocar anel do evento de maya para dropar e vender por wcoin
-- Colocar convite illusion temple e double goer para vender por wcoin
-- Refazer drop do red dragon
-
+- Adicionar Talisman of Chaos Assembly em % hard
+- Adicionar TCA na CashShop por um valor consideravel
+- 
 ------------------------------------------------------------------------
 
 # Changelog
@@ -66,8 +63,8 @@ PRIORIDADE BAIXA:
 - Double Goer 1: Golden Chest dropando 1un fixa de joias + armas exc (box +1) até +11 ( Blade, Serpent Sword, Battle e Master Scepter, Golden Cross, Thunder Staff, etc )
 - Double Goer 2: Golden Chest dropando 1un fixa de joias + armas exc (box +2) até +11 ( Legendary Sword, Double Blade, Sacred Glove, Tiger Bow, Gorgon Staff, etc )
 - Double Goer 3: Golden Chest dropando 1un fixa de joias + armas exc (box +3) até +11 ( Sword of Destruction, Rune Blade, Lord Scepter, Dragon Soul Staff, etc )
-- Double Goer 4: Golden Chest dropando 1un fixa de joias, possibilidade de pack de joias random e armas exc (box +4) até +9 ( Dark Breaker, Hooly Storm Claw, Saint Crossbow, Staff of Destrucion, etc ) 
-- Double Goer 5: Golden Chest dropando 1un fixa de joias, possibilidade de pack de joias random e armas exc (box +5) até +7 ( Knight Blade, Thunder, Kundun Staff, Chromatic, Great Lord Scepter, etc )
+- Double Goer 4: Golden Chest dropando 1un fixa de joias, possibilidade de pack de joias random, Seeds e armas exc (box +4) até +9 ( Dark Breaker, Hooly Storm Claw, Saint Crossbow, Staff of Destrucion, etc ) 
+- Double Goer 5: Golden Chest dropando 1un fixa de joias, possibilidade de pack de joias random, Seeds e armas exc (box +5) até +7 ( Knight Blade, Thunder, Kundun Staff, Chromatic, Great Lord Scepter, etc )
 
 ### Eventos e Farm:
 - Aumentado drop de joias no Farm ( drop dos mobs )
@@ -83,14 +80,13 @@ PRIORIDADE BAIXA:
 - Atualizado Drop da Lucky Coin 20 ( Moeda da Sorte ): Joias, Pack de Joias, Lochs Feather, Crest, Items Exc de +0 até +9 de Box +3 e +4
 - Atualizado Drop da Lucky Coin 30 ( Moeda da Sorte ): Joias, Pack de Joias, Lochs Feather, Crest, Items Exc de +0 até +7 e +9 ( Box +4 e Ashcrow, Eclipse, Iris, etc )
 - Devido a diminuição dos players, não vemos mais necessidade de termos 15 mini boss por invasão, sendo assim, retornamos para o valor anterior.
-
 - Com alteração do Rare Item Ticket, o drop da Stone of Friendship automaticamente foi melhorado ( recompensa = Rare Item Ticket )
 - Corrigido drop do Death Beam ( drop de armas nivel Box +4 )
-
 - Adicionado drop de Silver e Golden Chest
 - Silver Chest Drop: Pack de Joias, Items Exc de +0 até +11 ( Box +1 e +2 )
 - Golden Chest Drop: Pack de Joias, Feather, Crest, Items Exc de +0 até +11 ( Box +3 e +4  )
 - Red Dragon [3 Drops]: Silver Key, Golden Key, Joias, Rare Item Ticket 2, Possibilidade de Drop de Pack de Joias.
+- Removido os Muun Eggs das Invasões, deixado somente nos Coelhos ( Rabbit )
 
 ## [1.1.7.5]
 - Corrigida EXP de Ferea
