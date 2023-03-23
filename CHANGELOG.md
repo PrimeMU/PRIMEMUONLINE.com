@@ -39,9 +39,9 @@ PRIORIDADE BAIXA:
 ## [1.1.8.0]
 - Melhorias nos drops do Kundun, Medusa e Selupan.
 - Removido do Kundun, o drop de items Aschrow, Eclipse, etc.
-- Drop do Kundun [3 Drops]: 1 Ancient Item, 1 Exc Arma ou Set, 1 Armor ou Arma 380 ou misc (jewels, jewel of luck, higher refining, pack de joias, TOL )
- EXC Weapons: Knight Blade, DayBreak, Dancer, Arrow Viper, Platina Staff, etc. 
- EXC Parts: Great Dragon, Dark Soul, etc. Normal Armors 380
+@ Drop do Kundun [3 Drops]: 1 Ancient Item, 1 Exc Arma ou Set, 1 Armor ou Arma 380 ou misc (jewels, jewel of luck, higher refining, pack de joias, TOL )
+- EXC Weapons: Knight Blade, DayBreak, Dancer, Arrow Viper, Platina Staff, etc. 
+- EXC Parts: Great Dragon, Dark Soul, etc. Normal Armors 380
  
 - Alterado para Medusa dropar items socket de 2 a 3 slots ( anterior 1 a 3 )
 - Drop Medusa [5 Drops]: Ancient Item, Exc Arma ou Set, Arma Socket ou 380, Set Socket, Sphere 4 a 5 ou Misc ( Pack de Joias e [Condor Flame % baixa] ) 
