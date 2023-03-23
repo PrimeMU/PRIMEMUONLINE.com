@@ -70,6 +70,7 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Adicionado possibilidade de drop de item Anciente no Chaos Castle 7
 - Devil Square 6 e 7: Drop Pack de Joias Random, Feather e Crest.
 - Aumentado drop de Exc dos mobs no Devil Square
+- Removida limitações de entrada do BC e DS
 
 ### Outras Alterações:
 - Novo Drop do Rare ticket 1: 2 Joias Random + Possibilidade Drop de Pack de Soul, Lochs Feather, Crest,, Exc Items de +0 até +11 de Box +1 e +2 
