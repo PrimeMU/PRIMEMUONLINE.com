@@ -28,6 +28,7 @@ PRIORIDADE BAIXA:
 - Precisa pensar sobre oque fazer com os itens socket, eles não servem para nada se não tiver seed, ou coloca item anciente para dropar ou coloca as seed para dropar dos boss.
 - Ver porque os mini boss as vezes nao nascem todos
 - Ver Chaos machine criando asa lvl 1 e lvl 2 sem add outros itens pra melhorar a %
+- ver socket do kundun e medusa
 
 ------------------------------------------------------------------------
 
