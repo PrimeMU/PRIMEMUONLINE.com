@@ -76,6 +76,7 @@ Seeds ( Fire, Water, Ice, Wing, Lightning, Earth )
 - Adicionado drop de Silver e Golden Chest
 - Silver Chest Drop: Pack de Joias, Items Exc de +0 até +11 ( Box +1 e +2 )
 - Golden Chest Drop: Pack de Joias, Feather, Crest, Items Exc de +0 até +11 ( Box +3 e +4  )
+- Red Dragon [3 Drops]: Silver Key, Golden Key, Joias, Rare Item Ticket 2, Possibilidade de Drop de Pack de Joias.
 
 ## [1.1.7.5]
 - Corrigida EXP de Ferea
