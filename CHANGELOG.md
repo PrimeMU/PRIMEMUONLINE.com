@@ -44,7 +44,7 @@ PRIORIDADE BAIXA:
  EXC Parts: Great Dragon, Dark Soul, etc. Normal Armors 380
  
 - Alterado para Medusa dropar items socket de 2 a 3 slots ( anterior 1 a 3 )
-- Drop Medusa [5 Drops]: Ancient Item, Exc Arma ou Set, Arma Socket ou 380, Set Socket, Sphere 4~5 ou Misc ( Pack de Joias e [Condor Flame % baixa] ) 
+- Drop Medusa [5 Drops]: Ancient Item, Exc Arma ou Set, Arma Socket ou 380, Set Socket, Sphere 4 a 5 ou Misc ( Pack de Joias e [Condor Flame % baixa] ) 
 EXC Weapons: Knight Blade, DayBreak, Dancer, Arrow Viper, Platina Staff, etc. 
 Normal Weapons 380
 EXC Parts: Great Dragon, Dark Soul, etc. 
