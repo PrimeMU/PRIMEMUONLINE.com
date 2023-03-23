@@ -1,9 +1,6 @@
 Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 
-## [Não publicadas / falta atualizar o GameServer]
-
-### Adicionado / Modificado
-
+### [Não publicadas / falta atualizar o GameServer]
 
 ### Bugs Reportados
 #### PRIORIDADE ALTA:
