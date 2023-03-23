@@ -39,21 +39,21 @@ PRIORIDADE BAIXA:
 ## [1.1.8.0]
 - Melhorias nos drops do Kundun, Medusa e Selupan.
 - Removido do Kundun, o drop de items Aschrow, Eclipse, etc.
-@ Drop do Kundun [3 Drops]: 1 Ancient Item, 1 Exc Arma ou Set, 1 Armor ou Arma 380 ou misc (jewels, jewel of luck, higher refining, pack de joias, TOL )
+## Drop do Kundun [3 Drops]: 1 Ancient Item, 1 Exc Arma ou Set, 1 Armor ou Arma 380 ou misc (jewels, jewel of luck, higher refining, pack de joias, TOL )
 - EXC Weapons: Knight Blade, DayBreak, Dancer, Arrow Viper, Platina Staff, etc. 
 - EXC Parts: Great Dragon, Dark Soul, etc. Normal Armors 380
  
 - Alterado para Medusa dropar items socket de 2 a 3 slots ( anterior 1 a 3 )
-- Drop Medusa [5 Drops]: Ancient Item, Exc Arma ou Set, Arma Socket ou 380, Set Socket, Sphere 4 a 5 ou Misc ( Pack de Joias e [Condor Flame % baixa] ) 
-EXC Weapons: Knight Blade, DayBreak, Dancer, Arrow Viper, Platina Staff, etc. 
-Normal Weapons 380
-EXC Parts: Great Dragon, Dark Soul, etc. 
-SOCKET [2~3 Slots] Sets e Armas ( Titan, Brave, Seaphim... Flameberge, Sword Breaker, Rune bastard, Frost Mace, etc )
+## Drop Medusa [5 Drops]: Ancient Item, Exc Arma ou Set, Arma Socket ou 380, Set Socket, Sphere 4 a 5 ou Misc ( Pack de Joias e [Condor Flame % baixa] ) 
+- EXC Weapons: Knight Blade, DayBreak, Dancer, Arrow Viper, Platina Staff, etc. 
+- Normal Weapons 380
+- EXC Parts: Great Dragon, Dark Soul, etc. 
+- SOCKET [2~3 Slots] Sets e Armas ( Titan, Brave, Seaphim... Flameberge, Sword Breaker, Rune bastard, Frost Mace, etc )
 
-- Drop do Selupan [7 Drops]: 
-Selupan Drop refeito para: Sets e Armas Socket, Seed e Spheres 4~5, Pack de Joias e [Condor Flame] % baixa.
-SOCKET [2~3 Slots] Sets e Armas ( Titan, Brave, Seaphim... Flameberge, Sword Breaker, Rune bastard, Frost Mace, etc )
-Seeds ( Fire, Water, Ice, Wing, Lightning, Earth )
+## Drop do Selupan [7 Drops]: 
+- Selupan Drop refeito para: Sets e Armas Socket, Seed e Spheres 4~5, Pack de Joias e [Condor Flame] % baixa.
+- SOCKET [2~3 Slots] Sets e Armas ( Titan, Brave, Seaphim... Flameberge, Sword Breaker, Rune bastard, Frost Mace, etc )
+- Seeds ( Fire, Water, Ice, Wing, Lightning, Earth )
   
 - Novo Drop do Rare ticket 1: 2 Joias Random + Possibilidade Drop de Pack de Soul, Lochs Feather, Crest,, Exc Items de +0 até +11 de Box +1 e +2 
 - Novo Drop do Rare ticket 2: 2 Joias Random + Possibilidade Drop de Pack de Soul, Bless, Life, Pena, Crest, 2.5 Wings Items, Exc Items até +9 de Box +3 e +4
