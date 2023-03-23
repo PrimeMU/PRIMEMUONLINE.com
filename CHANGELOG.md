@@ -36,7 +36,7 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Melhorado drop do Erohim, Chance de Drop com Luck: 80%, Chance de Drop com 2 opt: 80%
 - EXC Weapons: Knight Blade, DayBreak, Dancer, Arrow Viper, Platina Staff, etc. 
 - EXC Parts: Great Dragon, Dark Soul, etc.
-### Adicionado comando /abrirbau
+#### Adicionado comando /abrirbau
 
 ## [1.1.8.0]
 - Melhorias nos drops do Kundun, Medusa e Selupan.
