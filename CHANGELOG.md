@@ -30,6 +30,9 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 
 # Changelog
 
+## [1.1.8.2]
+- Removido impossibilidade de dar trade no moonstone pendant
+
 ## [1.1.8.1]
 - Melhorado drop do Erohim, Chance de Drop com Luck: 80%, Chance de Drop com 2 opt: 80%
 - EXC Weapons: Knight Blade, DayBreak, Dancer, Arrow Viper, Platina Staff, etc. 
