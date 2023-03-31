@@ -9,8 +9,8 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 
 ##### PRIORIDADE BAIXA:
 - Corrigir descrição da Reset Fruit, Altera 340 pontos e nao 200
-- Arrumar Mix das Cheery
-- Corrigir quantidade da Cherry
+- Arrumar Mix das Cheery ( alterar Stack value ) 10 25 50
+- Corrigir quantidade da Cherry ( alterar no mix.bmd do client )
 - arrumar notificação do double goer
 - Roleta diminuir para 100wcoin e colocar itens mais interessantes 
 - Arrumar o MG fica gastando vida enquanto bate nos mob ( verificar Skill Tree )
